@@ -31,17 +31,20 @@ cp rosepinedawn.rasi ~/.config/rofi/config.rasi
 
 ## Gallery
 
-![Rosé Pine with Rofi](assets/template.png)
+Rosé Pine
+
+![Rosé Pine](https://media.discordapp.net/attachments/810799100940255260/930952883099291728/ezgif-6-2380645eed.png)
+
+
+Rosé Pine Moon
+
+![Moon](https://cdn.discordapp.com/attachments/810799100940255260/930952444236673064/ezgif-6-4f4f4bb2ca.png)
+
+
+Rosé Pine Dawn
+
+![Dawn](https://cdn.discordapp.com/attachments/810799100940255260/930952566441918484/ezgif-6-359c2ace9b.png)
 
 ## Thanks to
 
-- [ThatOneCalculator](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ThatOneCalculator](https://t1c.dev)
