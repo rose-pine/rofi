@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Rofi</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,17 +13,29 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+```
+git clone https://github.com/rose-pine/rofi
+```
+Rosé Pine:
+```
+cp rosepine.rasi ~/.config/rofi/config.rasi
+```
+Rosé Pine Moon:
+```
+cp rosepinemoon.rasi ~/.config/rofi/config.rasi
+```
+Rosé Pine Dawn:
+```
+cp rosepinedawn.rasi ~/.config/rofi/config.rasi
+```
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![Rosé Pine with Rofi](assets/template.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [ThatOneCalculator](https://github.com/<username>)
 
 ## Style guide
 
