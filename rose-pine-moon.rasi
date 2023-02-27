@@ -1,3 +1,5 @@
+@import "default";
+
 * {
 	bg: #232136;
 	cur: #2a273f;
