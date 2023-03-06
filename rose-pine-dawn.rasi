@@ -1,3 +1,5 @@
+@import "default";
+
 * {
 	bg: #faf4ed;
 	cur: #fffaf3;
