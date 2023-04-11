@@ -1,4 +1,4 @@
-@import "default";
+@import "default"
 
 * {
 	bg: #191724;
