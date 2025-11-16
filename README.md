@@ -33,15 +33,15 @@ cp rose-pine-dawn.rasi ~/.config/rofi/config.rasi
 
 Rosé Pine
 
-![Rosé Pine for Rofi](https://media.discordapp.net/attachments/810799100940255260/930952883099291728/ezgif-6-2380645eed.png)
+![Rosé Pine for Rofi](./assets/rose-pine.png)
 
 Rosé Pine Moon
 
-![Rosé Pine Moon for Rofi](https://cdn.discordapp.com/attachments/810799100940255260/930952444236673064/ezgif-6-4f4f4bb2ca.png)
+![Rosé Pine Moon for Rofi](./assets/rose-pine-moon.png)
 
 Rosé Pine Dawn
 
-![Rosé Pine Dawn for Rofi](https://cdn.discordapp.com/attachments/810799100940255260/930952566441918484/ezgif-6-359c2ace9b.png)
+![Rosé Pine Dawn for Rofi](./assets/rose-pine-dawn.png)
 
 ## Thanks to
 
